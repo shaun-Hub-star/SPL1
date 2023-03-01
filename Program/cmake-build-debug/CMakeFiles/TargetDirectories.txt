@@ -1,0 +1,3 @@
+C:/Users/Shust/Desktop/SPL1/Program/cmake-build-debug/CMakeFiles/Program.dir
+C:/Users/Shust/Desktop/SPL1/Program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Shust/Desktop/SPL1/Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
